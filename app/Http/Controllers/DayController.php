@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Hamcrest\Type\IsNumeric;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 
